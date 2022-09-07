@@ -96,7 +96,7 @@ class Cart {
     }
 
     /**
-     * Update the cart
+     * Actualizar carrito
      * @param    array
      * @return    bool
      */
